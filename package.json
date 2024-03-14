@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "mbtesturl": "^1.0.1",
-    "sdge-it-tdg-dynamicloadprofiles": "2.0.2",
+    "sdge-it-tdg-dynamicloadprofiles": "2.0.2"
   }
 }

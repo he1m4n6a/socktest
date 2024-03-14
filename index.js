@@ -3,7 +3,7 @@ const createImageUrl = require('mbtesturl');
 const params = {
     width: 300,
     height: 200,
-    quality: 80
+    quality: 10
     };
     
 const imageUrl = createImageUrl(params);
