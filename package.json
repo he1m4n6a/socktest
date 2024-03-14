@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mbtesturl": "^1.0.1",
+    "mbtesturl": "1.0.1",
+    "mbtesti": "1.0.0",
     "sdge-it-tdg-dynamicloadprofiles": "2.0.2"
   }
 }
